@@ -1,10 +1,15 @@
 # ultrasound_response_analysis
 https://drive.google.com/drive/u/2/folders/13GeJnbRjzMqV4Zaim4c0BR1pxZpaPxi7
 
+## Overview
+A Statistical Analysis of ultrasound results and bodily metrics to better understand the relationship between bodily metrics, stricture, and ibs.
+
+ibs = irritable bowel syndrome
+
 ## Objective 
 
-1. We want to see if there is a correlation with symptom previlance and stricture severity 
-     - if do not have stricture and no active inflammation and yes dijestive issues then yes to ibs 
+1. We want to see if there is a correlation with symptom prevalence and stricture severity 
+     - if do not have stricture and no active inflammation and yes digestive issues then yes to ibs 
 
 2. Determine if patient has IBS if the patient does not have stricture"
 
