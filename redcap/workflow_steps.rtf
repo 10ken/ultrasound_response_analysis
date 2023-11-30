@@ -1,0 +1,33 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2709
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red255\green255\blue255;}
+{\*\expandedcolortbl;;\cssrgb\c100000\c100000\c100000;}
+\margl1440\margr1440\vieww29200\viewh18400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 # Step 1\
+\
+\pard\pardeftab720\partightenfactor0
+\cf0 \cb2 \expnd0\expndtw0\kerning0
+input_data.csv \'97> from redcap\
+\
+Us script \'91get_redcap_csv_columns.py\'92 on input data to get the results below\
+	data_cleaned_cols.csv \'97> cleaned df for specific columns\
+	columns_names.text \'97> all column names\
+\
+# Step 2\
+\
+Use script process_redcap_csv.py on data_cleaned_cols.csv for the results below\
+	output_data.csv	\'97> CSV of information required, cleaning needed\
+	desired_columns.txt		\'97> questions and patient info\
+\
+# Step 3\
+\
+From output_data we cleaned the labels in the clean_labels notebook\
+\
+Get encoded_data.csv \'97> encode all questions given symptoms\
+\
+# Step 4\
+\
+Perform chi sq test on parties grope\
+}
