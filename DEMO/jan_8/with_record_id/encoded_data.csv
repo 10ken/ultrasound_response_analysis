@@ -1,0 +1,74 @@
+patient group,past_3_months_obspain,pain_increase,pain_increase_3,vomit_severity,vomit_severity_3
+defintive stricture,2,0,0,0,0
+probable stricture,2,0,0,0,0
+probable stricture,2,0,0,0,0
+defintive stricture,2,0,0,1,0
+probable stricture,2,2,3,0,0
+probable stricture,2,1,2,0,0
+probable stricture,2,1,2,0,0
+probable stricture,2,1,2,1,0
+inflammatory,2,0,0,0,0
+probable stricture,2,0,0,0,0
+defintive stricture,2,0,0,0,3
+probable stricture,2,0,0,0,0
+probable stricture,2,1,2,0,0
+inflammatory,2,3,4,4,4
+probable stricture,2,0,0,0,2
+inflammatory,2,1,2,0,0
+inflammatory,2,3,4,0,0
+defintive stricture,2,3,4,4,4
+probable stricture,2,0,0,0,0
+defintive stricture,0,2,0,0,0
+defintive stricture,0,0,0,0,0
+defintive stricture,0,0,0,0,0
+probable stricture,2,1,2,0,0
+inflammatory,1,1,2,0,1
+defintive stricture,2,0,0,0,0
+defintive stricture,2,0,0,1,0
+probable stricture,2,0,0,0,1
+inflammatory,2,0,0,0,0
+inflammatory,0,0,0,1,0
+inflammatory,2,0,0,2,2
+defintive stricture,0,1,2,0,0
+defintive stricture,1,0,2,0,0
+inflammatory,1,0,0,0,0
+inflammatory,1,0,2,0,2
+inflammatory,2,0,0,0,0
+inflammatory,2,0,0,0,0
+defintive stricture,2,0,0,0,0
+probable stricture,2,1,2,0,0
+inflammatory,2,0,0,0,0
+defintive stricture,2,1,2,2,0
+probable stricture,0,0,0,0,0
+inflammatory,2,0,0,0,1
+probable stricture,0,0,0,0,0
+probable stricture,2,0,0,0,0
+probable stricture,1,0,0,0,0
+probable stricture,0,0,0,3,3
+inflammatory,0,0,0,0,2
+inflammatory,2,0,0,0,0
+probable stricture,2,0,0,0,0
+defintive stricture,2,0,0,0,0
+probable stricture,2,0,0,0,0
+probable stricture,2,0,0,0,0
+defintive stricture,2,3,4,4,4
+defintive stricture,0,0,0,0,0
+inflammatory,0,0,0,0,2
+defintive stricture,2,0,0,0,0
+defintive stricture,1,0,2,0,0
+inflammatory,2,2,0,3,0
+defintive stricture,0,0,0,3,3
+defintive stricture,2,0,0,0,0
+inflammatory,2,0,0,0,0
+defintive stricture,2,0,0,3,0
+inflammatory,0,1,0,2,0
+defintive stricture,2,0,0,0,0
+probable stricture,2,0,1,0,0
+probable stricture,1,1,2,0,1
+probable stricture,2,0,0,0,0
+probable stricture,2,0,0,0,0
+inflammatory,1,0,3,0,0
+inflammatory,2,0,0,0,0
+defintive stricture,2,1,2,0,0
+probable stricture,0,0,0,0,0
+defintive stricture,1,0,0,0,0
