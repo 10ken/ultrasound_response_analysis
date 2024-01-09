@@ -1,0 +1,27 @@
+patient group
+as_of_present_and_looking
+over_the_course_of_3_weeks
+past_3_months_obspain
+on_average_how_severe_was
+on_average_how_severe_was_3
+in_the_past_3_weeks_did_yo
+in_the_past_3_weeks_did_yo_3
+how_limited_were_you_in_th
+how_limited_were_you_in_th_3
+in_the_past_two_weeks_beca
+in_the_past_two_weeks_beca_3
+pain_increase
+pain_increase_3
+did_you_experience_any_nau
+did_you_experience_any_nau_3
+out_of_the_days_where_you
+out_of_the_days_where_you_3
+did_you_experience_any_vom
+did_you_experience_any_vom_3
+vomit_severity
+vomit_severity_3
+Unnamed: 22
+length_cm
+bwt_mm
+cdi
+Record ID
